@@ -56,7 +56,10 @@ This project analyzes real estate sales trends using historical sales data, focu
 - Prepare listings by April-May to capture 95% of peak season potential
 - Consider December listings for premium properties, with 45% higher average sales prices
 
-# Note: 
+## CODE
+The Analysis can be found in the jupyter notpad: <a href="https://github.com/giftekpen/Real-Estate-Analysis/blob/main/Real%20estate.ipynb">SEE MY ANALYSIS
+
+## Note: 
 This analysis is based on historical data and should be combined with current market conditions and local factors for decision-making purposes.
 
 
